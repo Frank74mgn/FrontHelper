@@ -1,3 +1,5 @@
-# Производительность / Плавность / Отрисовка
+# РџСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ / РџР»Р°РІРЅРѕСЃС‚СЊ / РћС‚СЂРёСЃРѕРІРєР°
 
-* [Плавность box-shadow] (http://tobiasahlin.com/blog/how-to-animate-box-shadow/)
+* [РџР»Р°РІРЅРѕСЃС‚СЊ box-shadow] (http://tobiasahlin.com/blog/how-to-animate-box-shadow/)
+* [РљСЂРёС‚РёС‡РЅС‹Р№ CSS] (http://prgssr.ru/development/razbiraemsya-s-kritichnym-css.html)
+
